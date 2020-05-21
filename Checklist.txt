@@ -1,0 +1,7 @@
+Checklist 
+ 
+1. Random number generator
+2. Array for traps and currents
+3. Top 5 Leaderboard (txt file)
+4. other vehicles?
+5. 100 spaces.
